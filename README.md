@@ -34,7 +34,14 @@ CSS
 Javascript
 ```
 
-## Screen Shot 
+## Screen Shots
+
+<img width="884" alt="Screen Shot 2023-01-24 at 6 28 39 PM" src="https://user-images.githubusercontent.com/107374333/214467490-5437e1bf-39e5-4827-b412-e9113eb638f0.png">
+
+
+<img width="858" alt="Screen Shot 2023-01-24 at 6 28 15 PM" src="https://user-images.githubusercontent.com/107374333/214467378-b7a75c02-4f6b-47ba-8c51-ffb53a673309.png">
+
+
 
 ## Link to Deployed Application
 
