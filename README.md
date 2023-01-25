@@ -45,4 +45,4 @@ Javascript
 
 ## Link to Deployed Application
 
-file:///Users/drumholliday/Desktop/UCI_BOOTCAMP/HW_Challenges/3_Password_HW%20/index.html
+https://codercoding00.github.io/Password_Generator
