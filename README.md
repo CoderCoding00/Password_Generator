@@ -38,4 +38,4 @@ Javascript
 
 ## Link to Deployed Application
 
-<p>file:///Users/drumholliday/Desktop/UCI_BOOTCAMP/HW_Challenges/3_Password_HW%20/index.html</p>
+file:///Users/drumholliday/Desktop/UCI_BOOTCAMP/HW_Challenges/3_Password_HW%20/index.html
